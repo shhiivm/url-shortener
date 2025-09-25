@@ -1,6 +1,6 @@
 URL Shortener
 
-A simple URL shortener service built with Node.js and Express.
+A simple URL shortener service built with Node.js and Express.<br>
 Features
 Shorten long URLs
 Redirect short URLs to their original long URLs
